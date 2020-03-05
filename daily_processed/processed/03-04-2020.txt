@@ -1,0 +1,78 @@
+03-04-2020,China,80422,120,2984,38,Local transmission,0
+03-04-2020,Republic of Korea,5328,516,32,4,Local transmission,0
+03-04-2020,Japan,284,16,6,0,Local transmission,0
+03-04-2020,Singapore,110,2,0,0,Local transmission,0
+03-04-2020,Malaysia,50,21,0,0,Local transmission,0
+03-04-2020,Australia,43,10,1,0,Local transmission,0
+03-04-2020,Viet Nam,16,0,0,0,Local transmission,20
+03-04-2020,Philippines,3,0,1,0,Imported cases only,28
+03-04-2020,New Zealand,2,0,0,0,Imported cases only,1
+03-04-2020,Cambodia,1,0,0,0,Imported cases only,36
+03-04-2020,Italy,2502,466,80,28,Local transmission,0
+03-04-2020,France,212,21,4,1,Local transmission,0
+03-04-2020,Germany,196,39,0,0,Local transmission,0
+03-04-2020,Spain,151,37,0,0,Local transmission,0
+03-04-2020,United Kingdom,51,12,0,0,Local transmission,0
+03-04-2020,Switzerland,37,7,0,0,Local transmission,0
+03-04-2020,Norway,32,7,0,0,Local transmission,0
+03-04-2020,Netherlands,28,10,0,0,Local transmission,0
+03-04-2020,Austria,24,6,0,0,Imported cases only,0
+03-04-2020,Sweden,24,9,0,0,Local transmission,0
+03-04-2020,Iceland,16,7,0,0,Imported cases only,0
+03-04-2020,Israel,12,2,0,0,Local transmission,0
+03-04-2020,Croatia,9,1,0,0,Local transmission,0
+03-04-2020,Belgium,8,0,0,0,Imported cases only,1
+03-04-2020,Denmark,8,3,0,0,Local transmission,0
+03-04-2020,San Marino,8,0,0,0,Local transmission,1
+03-04-2020,Finland,7,0,0,0,Local transmission,1
+03-04-2020,Greece,7,0,0,0,Local transmission,2
+03-04-2020,Czechia,5,2,0,0,Imported cases only,1
+03-04-2020,Romania,4,1,0,0,Local transmission,0
+03-04-2020,Azerbaijan,3,0,0,0,Imported cases only,3
+03-04-2020,Georgia,3,0,0,0,Imported cases only,3
+03-04-2020,Russian Federation,3,0,0,0,Imported cases only,1
+03-04-2020,Estonia,2,1,0,0,Imported cases only,0
+03-04-2020,Ireland,2,1,0,0,Imported cases only,0
+03-04-2020,Portugal,2,0,0,0,Imported cases only,1
+03-04-2020,Andorra,1,0,0,0,Imported cases only,1
+03-04-2020,Armenia,1,0,0,0,Imported cases only,2
+03-04-2020,Belarus,1,0,0,0,Imported cases only,5
+03-04-2020,Latvia,1,0,0,0,Imported cases only,1
+03-04-2020,Lithuania,1,0,0,0,Imported cases only,5
+03-04-2020,Luxembourg,1,0,0,0,Imported cases only,2
+03-04-2020,Monaco,1,0,0,0,Under investigation,3
+03-04-2020,North Macedonia,1,0,0,0,Imported cases only,6
+03-04-2020,Poland,1,1,0,0,Imported cases only,0
+03-04-2020,Ukraine,1,1,0,0,Imported cases only,0
+03-04-2020,Thailand,43,0,1,0,Local transmission,1
+03-04-2020,India,6,1,0,0,Imported cases only,0
+03-04-2020,Indonesia,2,0,0,0,Local transmission,2
+03-04-2020,Nepal,1,0,0,0,Imported cases only,40
+03-04-2020,Sri Lanka,1,0,0,0,Imported cases only,37
+03-04-2020,Iran (Islamic Republic of),2336,835,77,11,Local transmission,0
+03-04-2020,Kuwait,56,0,0,0,Imported cases only,2
+03-04-2020,Bahrain,49,0,0,0,Imported cases only,1
+03-04-2020,Iraq,31,5,0,0,Imported cases only,0
+03-04-2020,United Arab Emirates,27,6,0,0,Local transmission,0
+03-04-2020,Lebanon,13,0,0,0,Local transmission,1
+03-04-2020,Oman,12,6,0,0,Imported cases only,0
+03-04-2020,Qatar,8,1,0,0,Imported cases only,0
+03-04-2020,Pakistan,5,0,0,0,Imported cases only,1
+03-04-2020,Egypt,2,0,0,0,Imported cases only,2
+03-04-2020,Afghanistan,1,0,0,0,Imported cases only,8
+03-04-2020,Jordan,1,0,0,0,Imported cases only,1
+03-04-2020,Morocco,1,0,0,0,Imported cases only,1
+03-04-2020,Saudi Arabia,1,0,0,0,Imported cases only,1
+03-04-2020,Tunisia,1,0,0,0,Imported cases only,1
+03-04-2020,United States,108,44,6,4,Local transmission,0
+03-04-2020,Canada,30,3,0,0,Local transmission,0
+03-04-2020,Ecuador,7,1,0,0,Local transmission,0
+03-04-2020,Mexico,5,0,0,0,Imported cases only,2
+03-04-2020,Brazil,2,0,0,0,Imported cases only,3
+03-04-2020,Argentina,1,1,0,0,Imported cases only,0
+03-04-2020,Chile,1,1,0,0,Imported cases only,0
+03-04-2020,Dominican Republic,1,0,0,0,Imported cases only,2
+03-04-2020,Algeria,5,0,0,0,Local transmission,1
+03-04-2020,Nigeria,1,0,0,0,Imported cases only,5
+03-04-2020,Senegal,1,0,0,0,Imported cases only,1
+03-04-2020,International conveyance (Diamond Princess),706,0,6,0,Local transmission,2
