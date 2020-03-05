@@ -1,0 +1,53 @@
+02-28-2020,China,78961,331,2791,44,Local transmission,0
+02-28-2020,Republic of Korea,2337,571,13,0,Local transmission,0
+02-28-2020,Japan,210,24,4,1,Local transmission,0
+02-28-2020,Singapore,96,3,0,0,Local transmission,0
+02-28-2020,Malaysia,24,2,0,0,Local transmission,0
+02-28-2020,Australia,23,0,0,0,Local transmission,3
+02-28-2020,Viet Nam,16,0,0,0,Local transmission,15
+02-28-2020,Philippines,3,0,1,0,Imported cases only,24
+02-28-2020,Cambodia,1,0,0,0,Imported cases only,32
+02-28-2020,New Zealand,1,1,0,0,Imported cases only,0
+02-28-2020,Italy,650,250,17,5,Local transmission,0
+02-28-2020,France,38,20,2,0,Local transmission,0
+02-28-2020,Germany,26,5,0,0,Local transmission,0
+02-28-2020,Spain,25,13,0,0,Local transmission,0
+02-28-2020,The United Kingdom,16,3,0,0,Local transmission,0
+02-28-2020,Sweden,7,5,0,0,Imported cases only,0
+02-28-2020,Switzerland,6,5,0,0,Imported cases only,0
+02-28-2020,Austria,4,2,0,0,Imported cases only,0
+02-28-2020,Norway,4,3,0,0,Imported cases only,0
+02-28-2020,Greece,3,2,0,0,Imported cases only,0
+02-28-2020,Israel,3,1,0,0,Imported cases only,0
+02-28-2020,Croatia,3,0,0,0,Local transmission,0
+02-28-2020,Finland,2,0,0,0,Imported cases only,2
+02-28-2020,Russian Federation,2,0,0,0,Imported cases only,28
+02-28-2020,Belarus,1,1,0,0,Imported cases only,0
+02-28-2020,Lithuania,1,1,0,0,Imported cases only,0
+02-28-2020,Netherlands,1,1,0,0,Imported cases only,0
+02-28-2020,North Macedonia,1,0,0,0,Imported cases only,2
+02-28-2020,Romania,1,0,0,0,Imported cases only,1
+02-28-2020,Belgium,1,0,0,0,Imported cases only,24
+02-28-2020,Denmark,1,0,0,0,Imported cases only,1
+02-28-2020,Estonia,1,0,0,0,Imported cases only,1
+02-28-2020,Georgia,1,0,0,0,Imported cases only,1
+02-28-2020,Thailand,40,0,0,0,Local transmission,2
+02-28-2020,India,3,0,0,0,Imported cases only,25
+02-28-2020,Nepal,1,0,0,0,Imported cases only,46
+02-28-2020,Sri Lanka,1,0,0,0,Imported cases only,32
+02-28-2020,Iran (Islamic Republic of),245,104,26,4,Local transmission,0
+02-28-2020,Kuwait,43,0,0,0,Imported cases only,1
+02-28-2020,Bahrain,33,0,0,0,Imported cases only,1
+02-28-2020,United Arab Emirates,19,6,0,0,Local transmission,0
+02-28-2020,Iraq,7,1,0,0,Imported cases only,0
+02-28-2020,Oman,6,2,0,0,Imported cases only,0
+02-28-2020,Lebanon,2,0,0,0,Imported cases only,2
+02-28-2020,Pakistan,2,0,0,0,Imported cases only,2
+02-28-2020,Afghanistan,1,0,0,0,Imported cases only,4
+02-28-2020,Egypt,1,0,0,0,Imported cases only,14
+02-28-2020,United States of America,59,0,0,0,Local transmission,2
+02-28-2020,Canada,11,0,0,0,Imported cases only,2
+02-28-2020,Brazil,1,0,0,0,Imported cases only,2
+02-28-2020,Algeria,1,0,0,0,Imported cases only,3
+02-28-2020,Nigeria,1,1,0,0,Imported cases only,0
+02-28-2020,International conveyance (Diamond Princess),705,0,4,0,Local transmission,2

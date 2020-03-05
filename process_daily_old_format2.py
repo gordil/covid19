@@ -1,6 +1,6 @@
 from os import listdir, rename
 from os.path import isfile, join
-import string
+import string,re
 printable = set(string.printable)
 mypath_raw=r'C:\Users\u34472\Documents\covid19-master\daily_raw'
 mypath_processed=r'C:\Users\u34472\Documents\covid19-master\daily_processed'
@@ -22,13 +22,20 @@ for fname in onlyfiles:
 				country_name=replace_list[country_name]
 			out_line=fname.split('.')[0]+','+country_name
 		else:
-			if c==7:
-				out_line+=','+line.rstrip().split(' ')[0]
-			else:
-				out_line+=','+line.rstrip()
+			if c==2:
+				val_arr=re.split('\(|\)',line.rstrip())
+				out_line+=','+val_arr[0].strip()
+				out_line+=','+val_arr[1].strip()
+			elif c==7:
+				val_arr=re.split('\(|\)',line.rstrip())
+				out_line+=','+val_arr[0].strip()
+				out_line+=','+val_arr[1].strip()
+				out_line+=',,'
+			# else:
+				# out_line+=','+line.rstrip()
 		c+=1		
 		if c==8:
-			fp.write(out_line+'\n')
+			fp.write(out_line+'\n')			
 			c=1
 	print('Completed processing '+fname)
 	fr.close()

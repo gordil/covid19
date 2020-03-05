@@ -1,0 +1,60 @@
+03-01-2020,China,79968,579,2873,35,Local transmission,0
+03-01-2020,Republic of Korea,3736,586,18,1,Local transmission,0
+03-01-2020,Japan,239,9,5,0,Local transmission,0
+03-01-2020,Singapore,102,4,0,0,Local transmission,0
+03-01-2020,Australia,25,1,0,0,Local transmission,0
+03-01-2020,Malaysia,24,0,0,0,Local transmission,2
+03-01-2020,Viet Nam,16,0,0,0,Local transmission,17
+03-01-2020,Philippines,3,0,1,0,Imported cases only,26
+03-01-2020,Cambodia,1,0,0,0,Imported cases only,34
+03-01-2020,New Zealand,1,0,0,0,Imported cases only,2
+03-01-2020,Italy,1128,240,29,8,Local transmission,0
+03-01-2020,France,100,43,2,0,Local transmission,0
+03-01-2020,Germany,57,0,0,0,Local transmission,1
+03-01-2020,Spain,45,13,0,0,Local transmission,0
+03-01-2020,The United Kingdom,23,3,0,0,Local transmission,0
+03-01-2020,Switzerland,18,8,0,0,Imported cases only,0
+03-01-2020,Norway,15,9,0,0,Local transmission,0
+03-01-2020,Sweden,13,1,0,0,Imported cases only,0
+03-01-2020,Austria,10,5,0,0,Imported cases only,0
+03-01-2020,Croatia,7,2,0,0,Local transmission,0
+03-01-2020,Israel,7,2,0,0,Imported cases only,0
+03-01-2020,Netherlands,7,5,0,0,Local transmission,0
+03-01-2020,Azerbaijan,3,3,0,0,Imported cases only,0
+03-01-2020,Denmark,3,1,0,0,Imported cases only,0
+03-01-2020,Georgia,3,1,0,0,Imported cases only,0
+03-01-2020,Greece,3,0,0,0,Imported cases only,2
+03-01-2020,Romania,3,0,0,0,Imported cases only,1
+03-01-2020,Finland,2,0,0,0,Imported cases only,4
+03-01-2020,Russian Federation,2,0,0,0,Imported cases only,30
+03-01-2020,Belarus,1,0,0,0,Imported cases only,2
+03-01-2020,Belgium,1,0,0,0,Imported cases only,26
+03-01-2020,Estonia,1,0,0,0,Imported cases only,3
+03-01-2020,Ireland,1,1,0,0,Imported cases only,0
+03-01-2020,Lithuania,1,0,0,0,Imported cases only,2
+03-01-2020,Monaco,1,1,0,0,Under investigation,0
+03-01-2020,North Macedonia,1,0,0,0,Imported cases only,4
+03-01-2020,San Marino,1,0,0,0,Local transmission,1
+03-01-2020,Thailand,42,0,0,0,Local transmission,1
+03-01-2020,India,3,0,0,0,Imported cases only,27
+03-01-2020,Nepal,1,0,0,0,Imported cases only,48
+03-01-2020,Sri Lanka,1,0,0,0,Imported cases only,34
+03-01-2020,Iran (Islamic Republic of),593,205,43,9,Local transmission,0
+03-01-2020,Kuwait,45,0,0,0,Imported cases only,1
+03-01-2020,Bahrain,40,2,0,0,Imported cases only,0
+03-01-2020,United Arab Emirates,19,0,0,0,Local transmission,1
+03-01-2020,Iraq,13,5,0,0,Imported cases only,0
+03-01-2020,Oman,6,0,0,0,Imported cases only,2
+03-01-2020,Pakistan,4,2,0,0,Imported cases only,0
+03-01-2020,Lebanon,2,0,0,0,Imported cases only,4
+03-01-2020,Afghanistan,1,0,0,0,Imported cases only,6
+03-01-2020,Egypt,1,0,0,0,Imported cases only,16
+03-01-2020,Qatar,1,1,0,0,Imported cases only,0
+03-01-2020,United States of America,62,0,0,0,Local transmission,1
+03-01-2020,Canada,19,5,0,0,Local transmission,0
+03-01-2020,Brazil,2,1,0,0,Imported cases only,0
+03-01-2020,Mexico,2,0,0,0,Imported cases only,1
+03-01-2020,Ecuador,1,1,0,0,Imported cases only,0
+03-01-2020,Algeria,1,0,0,0,Imported cases only,5
+03-01-2020,Nigeria,1,0,0,0,Imported cases only,2
+03-01-2020,International conveyance (Diamond Princess),705,0,6,0,Local transmission,4
