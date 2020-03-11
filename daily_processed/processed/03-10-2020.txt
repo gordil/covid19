@@ -1,0 +1,111 @@
+03-10-2020,China,80924,20,3140,17,Local transmission,0
+03-10-2020,Republic of Korea,7513,131,54,3,Local transmission,0
+03-10-2020,Japan,514,26,9,2,Local transmission,0
+03-10-2020,Singapore,160,10,0,0,Local transmission,0
+03-10-2020,Malaysia,117,24,0,0,Local transmission,0
+03-10-2020,Australia,92,15,3,0,Local transmission,0
+03-10-2020,Philippines,33,23,1,0,Local transmission,0
+03-10-2020,Viet Nam,31,1,0,0,Local transmission,0
+03-10-2020,New Zealand,5,0,0,0,Local transmission,3
+03-10-2020,Cambodia,2,0,0,0,Local transmission,2
+03-10-2020,Brunei Darussalam,1,1,0,0,Imported cases only,0
+03-10-2020,Mongolia,1,1,0,0,Imported cases only,0
+03-10-2020,Italy,9172,1797,463,97,Local transmission,0
+03-10-2020,France,1402,286,30,11,Local transmission,0
+03-10-2020,Germany,1139,27,2,2,Local transmission,0
+03-10-2020,Spain,1024,435,28,18,Local transmission,0
+03-10-2020,Switzerland,332,0,2,0,Local transmission,1
+03-10-2020,The United Kingdom,323,46,3,1,Local transmission,0
+03-10-2020,Netherlands,321,56,3,0,Local transmission,0
+03-10-2020,Sweden,248,45,0,0,Local transmission,0
+03-10-2020,Belgium,239,39,0,0,Local transmission,0
+03-10-2020,Norway,192,23,0,0,Local transmission,0
+03-10-2020,Austria,131,19,0,0,Local transmission,0
+03-10-2020,Denmark,90,54,0,0,Local transmission,0
+03-10-2020,Greece,73,0,0,0,Local transmission,1
+03-10-2020,Iceland,55,0,0,0,Local transmission,2
+03-10-2020,San Marino,49,12,2,1,Local transmission,0
+03-10-2020,Finland,40,10,0,0,Local transmission,0
+03-10-2020,Israel,39,0,0,0,Local transmission,1
+03-10-2020,Czechia,38,6,0,0,Local transmission,0
+03-10-2020,Portugal,30,0,0,0,Local transmission,1
+03-10-2020,Ireland,24,3,0,0,Local transmission,0
+03-10-2020,Slovenia,23,7,0,0,Local transmission,0
+03-10-2020,Poland,16,5,0,0,Local transmission,0
+03-10-2020,Georgia,15,2,0,0,Imported cases only,0
+03-10-2020,Romania,15,0,0,0,Local transmission,1
+03-10-2020,Croatia,12,1,0,0,Local transmission,0
+03-10-2020,Estonia,10,0,0,0,Imported cases only,3
+03-10-2020,Azerbaijan,9,0,0,0,Imported cases only,3
+03-10-2020,Hungary,9,0,0,0,Local transmission,1
+03-10-2020,North Macedonia,7,4,0,0,Local transmission,0
+03-10-2020,Russian Federation,7,0,0,0,Imported cases only,3
+03-10-2020,Slovakia,7,2,0,0,Local transmission,0
+03-10-2020,Belarus,6,0,0,0,Local transmission,5
+03-10-2020,Latvia,6,3,0,0,Imported cases only,0
+03-10-2020,Luxembourg,5,3,0,0,Imported cases only,0
+03-10-2020,Bulgaria,4,0,0,0,Local transmission,2
+03-10-2020,Malta,4,1,0,0,Imported cases only,0
+03-10-2020,Albania,2,0,0,0,Imported cases only,1
+03-10-2020,Bosnia and Herzegovina,2,0,0,0,Local transmission,5
+03-10-2020,Cyprus,2,2,0,0,Imported cases only,0
+03-10-2020,Andorra,1,0,0,0,Imported cases only,7
+03-10-2020,Armenia,1,0,0,0,Imported cases only,8
+03-10-2020,Holy See,1,0,0,0,Under investigation,4
+03-10-2020,Liechtenstein,1,0,0,0,Imported cases only,4
+03-10-2020,Lithuania,1,0,0,0,Imported cases only,11
+03-10-2020,Monaco,1,0,0,0,Under investigation,9
+03-10-2020,Republic of Moldova,1,0,0,0,Imported cases only,2
+03-10-2020,Serbia,1,0,0,0,Under investigation,4
+03-10-2020,Ukraine,1,0,0,0,Imported cases only,6
+03-10-2020,Faroe Islands,2,0,0,0,Imported cases only,1
+03-10-2020,Gibraltar,1,0,0,0,Under investigation,6
+03-10-2020,Guernsey,1,1,0,0,Imported cases only,0
+03-10-2020,Thailand,53,3,1,0,Local transmission,0
+03-10-2020,India,44,1,0,0,Local transmission,0
+03-10-2020,Indonesia,19,13,0,0,Local transmission,0
+03-10-2020,Maldives,4,0,0,0,Local transmission,1
+03-10-2020,Bangladesh,3,0,0,0,Local transmission,1
+03-10-2020,Bhutan,1,0,0,0,Imported cases only,4
+03-10-2020,Nepal,1,0,0,0,Imported cases only,46
+03-10-2020,Sri Lanka,1,0,0,0,Imported cases only,43
+03-10-2020,Iran (Islamic Republic of),7161,595,237,43,Local transmission,0
+03-10-2020,Bahrain,109,30,0,0,Local transmission,0
+03-10-2020,Kuwait,65,1,0,0,Imported cases only,0
+03-10-2020,Iraq,61,1,6,0,Local transmission,0
+03-10-2020,Egypt,59,4,1,0,Local transmission,0
+03-10-2020,United Arab Emirates,59,14,0,0,Local transmission,0
+03-10-2020,Lebanon,41,9,0,0,Local transmission,0
+03-10-2020,Oman,18,2,0,0,Imported cases only,0
+03-10-2020,Qatar,18,3,0,0,Imported cases only,0
+03-10-2020,Pakistan,16,10,0,0,Local transmission,0
+03-10-2020,Saudi Arabia,15,0,0,0,Imported cases only,1
+03-10-2020,Afghanistan,4,0,0,0,Imported cases only,2
+03-10-2020,Morocco,2,0,0,0,Imported cases only,5
+03-10-2020,Tunisia,2,0,0,0,Imported cases only,1
+03-10-2020,Jordan,1,0,0,0,Imported cases only,7
+03-10-2020,occupied Palestinian territory,26,7,0,0,Local transmission,0
+03-10-2020,United States of America,472,259,19,8,Local transmission,0
+03-10-2020,Canada,77,15,0,0,Local transmission,0
+03-10-2020,Brazil,25,0,0,0,Local transmission,1
+03-10-2020,Ecuador,15,0,0,0,Local transmission,1
+03-10-2020,Chile,13,3,0,0,Local transmission,0
+03-10-2020,Argentina,12,0,1,0,Imported cases only,1
+03-10-2020,Costa Rica,9,0,0,0,Local transmission,1
+03-10-2020,Peru,9,3,0,0,Local transmission,0
+03-10-2020,Mexico,7,0,0,0,Imported cases only,2
+03-10-2020,Dominican Republic,5,4,0,0,Imported cases only,0
+03-10-2020,Colombia,3,2,0,0,Imported cases only,0
+03-10-2020,Panama,1,1,0,0,Imported cases only,0
+03-10-2020,Paraguay,1,0,0,0,Imported cases only,1
+03-10-2020,French Guiana,5,0,0,0,Imported cases only,2
+03-10-2020,Martinique,2,0,0,0,Imported cases only,2
+03-10-2020,Saint Martin,2,0,0,0,Under investigation,7
+03-10-2020,Saint Barthelemy,1,0,0,0,Under investigation,7
+03-10-2020,Algeria,20,0,0,0,Local transmission,1
+03-10-2020,South Africa,7,4,0,0,Imported cases only,0
+03-10-2020,Senegal,4,0,0,0,Imported cases only,5
+03-10-2020,Cameroon,2,0,0,0,Local transmission,3
+03-10-2020,Nigeria,2,0,0,0,Imported cases only,1
+03-10-2020,Togo,1,0,0,0,Imported cases only,3
+03-10-2020,International conveyance (Diamond Princess),696,0,7,0,Local transmission,2

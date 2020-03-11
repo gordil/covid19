@@ -3,11 +3,10 @@ from os.path import isfile, join
 from shutil import copyfile
 from datetime import datetime
 
-mypath_processed = r'C:\Users\u34472\Documents\covid19-master\daily_processed'
-mypath_full = r'C:\Users\u34472\Documents\covid19-master'
+mypath_processed = "daily_processed"
 onlyfiles = [f for f in listdir(mypath_processed) if isfile(join(mypath_processed, f))]
-copyfile(mypath_full+'/covid19.csv', mypath_full+"/full_bkp/covid19"+str(datetime.now().strftime("%d-%b-%Y-%H-%M-%S-%f"))+".csv")
-ff = open(mypath_full+"/covid19.csv", "a")
+copyfile("covid19.csv", "full_bkp/covid19"+str(datetime.now().strftime("%d-%b-%Y-%H-%M-%S-%f"))+".csv")
+ff = open("covid19.csv", "a")
 for fname in onlyfiles:	
 	fp = open(mypath_processed+"/"+fname, "r")
 	ff.write(fp.read())

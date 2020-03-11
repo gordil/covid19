@@ -1,0 +1,90 @@
+03-06-2020,China,80711,146,3045,30,Local transmission,0
+03-06-2020,Republic of Korea,6284,518,42,7,Local transmission,0
+03-06-2020,Japan,349,32,6,0,Local transmission,0
+03-06-2020,Singapore,117,7,0,0,Local transmission,0
+03-06-2020,Australia,57,0,2,0,Local transmission,1
+03-06-2020,Malaysia,55,5,0,0,Local transmission,0
+03-06-2020,Viet Nam,16,0,0,0,Local transmission,22
+03-06-2020,Philippines,5,2,1,0,Local transmission,0
+03-06-2020,New Zealand,4,2,0,0,Local transmission,0
+03-06-2020,Cambodia,1,0,0,0,Imported cases only,38
+03-06-2020,Italy,3858,769,148,41,Local transmission,0
+03-06-2020,Germany,534,272,0,0,Local transmission,0
+03-06-2020,France,420,138,6,2,Local transmission,0
+03-06-2020,Spain,257,59,3,2,Local transmission,0
+03-06-2020,The United Kingdom,118,29,0,0,Local transmission,0
+03-06-2020,Norway,86,30,0,0,Local transmission,0
+03-06-2020,Switzerland,86,30,1,1,Local transmission,0
+03-06-2020,Netherlands,82,44,0,0,Local transmission,0
+03-06-2020,Sweden,61,26,0,0,Local transmission,0
+03-06-2020,Belgium,50,27,0,0,Local transmission,1
+03-06-2020,Austria,47,10,0,0,Imported cases only,0
+03-06-2020,Greece,32,23,0,0,Local transmission,1
+03-06-2020,Iceland,26,0,0,0,Imported cases only,1
+03-06-2020,San Marino,21,5,0,0,Local transmission,0
+03-06-2020,Denmark,18,8,0,0,Local transmission,1
+03-06-2020,Israel,15,0,0,0,Local transmission,1
+03-06-2020,Ireland,14,12,0,0,Local transmission,0
+03-06-2020,Czechia,12,7,0,0,Local transmission,0
+03-06-2020,Finland,12,5,0,0,Local transmission,0
+03-06-2020,Croatia,10,1,0,0,Local transmission,0
+03-06-2020,Georgia,9,6,0,0,Imported cases only,0
+03-06-2020,Portugal,9,0,0,0,Local transmission,1
+03-06-2020,Belarus,6,0,0,0,Local transmission,1
+03-06-2020,Romania,6,2,0,0,Local transmission,0
+03-06-2020,Slovenia,6,5,0,0,Local transmission,0
+03-06-2020,Russian Federation,4,1,0,0,Imported cases only,0
+03-06-2020,Azerbaijan,3,0,0,0,Imported cases only,5
+03-06-2020,Estonia,3,1,0,0,Imported cases only,0
+03-06-2020,Bosnia and Herzegovina,2,0,0,0,Local transmission,1
+03-06-2020,Hungary,2,0,0,0,Imported cases only,1
+03-06-2020,Andorra,1,0,0,0,Imported cases only,3
+03-06-2020,Armenia,1,0,0,0,Imported cases only,4
+03-06-2020,Latvia,1,0,0,0,Imported cases only,3
+03-06-2020,Liechtenstein,1,0,0,0,Imported cases only,0
+03-06-2020,Lithuania,1,0,0,0,Imported cases only,7
+03-06-2020,Luxembourg,1,0,0,0,Imported cases only,4
+03-06-2020,Monaco,1,0,0,0,Under investigation,5
+03-06-2020,North Macedonia,1,0,0,0,Imported cases only,8
+03-06-2020,Poland,1,0,0,0,Imported cases only,2
+03-06-2020,Serbia,1,1,0,0,Under investigation,0
+03-06-2020,Ukraine,1,0,0,0,Imported cases only,2
+03-06-2020,Gibraltar,1,0,0,0,Under investigation,2
+03-06-2020,Thailand,47,0,1,0,Local transmission,1
+03-06-2020,India,30,1,0,0,Local transmission,0
+03-06-2020,Indonesia,2,0,0,0,Local transmission,4
+03-06-2020,Bhutan,1,1,0,0,Imported cases only,0
+03-06-2020,Nepal,1,0,0,0,Imported cases only,42
+03-06-2020,Sri Lanka,1,0,0,0,Imported cases only,39
+03-06-2020,Iran (Islamic Republic of),3513,591,107,15,Local transmission,0
+03-06-2020,Kuwait,58,0,0,0,Imported cases only,1
+03-06-2020,Bahrain,49,0,0,0,Imported cases only,3
+03-06-2020,Iraq,36,0,2,0,Imported cases only,1
+03-06-2020,United Arab Emirates,27,0,0,0,Local transmission,2
+03-06-2020,Lebanon,16,3,0,0,Local transmission,0
+03-06-2020,Oman,16,1,0,0,Imported cases only,0
+03-06-2020,Qatar,8,0,0,0,Imported cases only,2
+03-06-2020,Saudi Arabia,8,6,0,0,Imported cases only,0
+03-06-2020,Pakistan,5,0,0,0,Imported cases only,3
+03-06-2020,Egypt,3,1,0,0,Imported cases only,0
+03-06-2020,Morocco,2,0,0,0,Imported cases only,1
+03-06-2020,Afghanistan,1,0,0,0,Imported cases only,11
+03-06-2020,Jordan,1,0,0,0,Imported cases only,3
+03-06-2020,Tunisia,1,0,0,0,Imported cases only,3
+03-06-2020,Occupied Palestinian Territory,7,0,0,0,Imported cases only,1
+03-06-2020,United States of America,148,19,10,1,Local transmission,0
+03-06-2020,Canada,45,15,0,0,Local transmission,0
+03-06-2020,Ecuador,13,6,0,0,Local transmission,0
+03-06-2020,Brazil,7,4,0,0,Imported cases only,0
+03-06-2020,Mexico,5,0,0,0,Imported cases only,4
+03-06-2020,Argentina,1,0,0,0,Imported cases only,2
+03-06-2020,Chile,1,0,0,0,Imported cases only,2
+03-06-2020,Dominican Republic,1,0,0,0,Imported cases only,4
+03-06-2020,Saint Martin,2,0,0,0,Under investigation,3
+03-06-2020,Saint Barthlemy,1,0,0,0,Under investigation,3
+03-06-2020,Algeria,12,0,0,0,Local transmission,1
+03-06-2020,Senegal,4,0,0,0,Imported cases only,1
+03-06-2020,Cameroon,1,1,0,0,Imported cases only,0
+03-06-2020,Nigeria,1,0,0,0,Imported cases only,7
+03-06-2020,South Africa,1,1,0,0,Imported cases only,0
+03-06-2020,International conveyance (Diamond Princess),696,0,6,0,Local transmission,0

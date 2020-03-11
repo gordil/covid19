@@ -2,8 +2,8 @@ from os import listdir, rename
 from os.path import isfile, join
 import string
 printable = set(string.printable)
-mypath_raw=r'C:\Users\u34472\Documents\covid19-master\daily_raw'
-mypath_processed=r'C:\Users\u34472\Documents\covid19-master\daily_processed'
+mypath_raw='daily_raw'
+mypath_processed='daily_processed'
 onlyfiles = [f for f in listdir(mypath_raw) if isfile(join(mypath_raw, f))]
 skip_list=('Western Pacific Region','European Region','South-East Asia Region','Eastern Mediterranean Region','Region of the Americas','African Region')
 replace_list={'the United Kingdom':'United Kingdom','the United States':'United States'}
@@ -12,7 +12,7 @@ for fname in onlyfiles:
 	fp = open(mypath_processed+"/"+fname, "a")
 	c=1
 	out_line=''
-	for line in fr:
+	for line in fr:		
 		line=''.join(filter(lambda x: x in printable, line))
 		if line.rstrip() in skip_list:
 			continue

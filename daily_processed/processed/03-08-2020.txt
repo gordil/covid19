@@ -1,0 +1,103 @@
+03-08-2020,China,80859,46,3100,27,Local transmission,0
+03-08-2020,China,7134,367,50,6,Local transmission,0
+03-08-2020,Japan,455,48,6,0,Local transmission,0
+03-08-2020,Singapore,138,8,0,0,Local transmission,0
+03-08-2020,Malaysia,93,10,0,0,Local transmission,0
+03-08-2020,Australia,74,12,3,1,Local transmission,0
+03-08-2020,Viet Nam,21,4,0,0,Local transmission,0
+03-08-2020,Philippines,6,1,1,0,Local transmission,0
+03-08-2020,New Zealand,5,0,0,0,Local transmission,1
+03-08-2020,Cambodia,2,1,0,0,Local transmission,0
+03-08-2020,Italy,5883,1247,234,37,Local transmission,0
+03-08-2020,Germany,795,156,0,0,Local transmission,0
+03-08-2020,France,706,93,10,1,Local transmission,0
+03-08-2020,Spain,430,56,5,0,Local transmission,0
+03-08-2020,Switzerland,264,55,2,1,Local transmission,0
+03-08-2020,The United Kingdom,210,43,2,1,Local transmission,0
+03-08-2020,Netherlands,188,60,1,0,Local transmission,0
+03-08-2020,Belgium,169,60,0,0,Local transmission,0
+03-08-2020,Sweden,161,24,0,0,Local transmission,0
+03-08-2020,Norway,147,34,0,0,Local transmission,0
+03-08-2020,Austria,104,38,0,0,Local transmission,0
+03-08-2020,Greece,66,34,0,0,Local transmission,0
+03-08-2020,Iceland,45,0,0,0,Local transmission,1
+03-08-2020,Denmark,31,8,0,0,Local transmission,0
+03-08-2020,San Marino,27,3,1,1,Local transmission,0
+03-08-2020,Czechia,26,14,0,0,Local transmission,0
+03-08-2020,Israel,25,6,0,0,Local transmission,0
+03-08-2020,Portugal,21,8,0,0,Local transmission,0
+03-08-2020,Finland,19,0,0,0,Local transmission,1
+03-08-2020,Ireland,19,1,0,0,Local transmission,0
+03-08-2020,Romania,13,6,0,0,Local transmission,0
+03-08-2020,Georgia,12,3,0,0,Imported cases only,0
+03-08-2020,Slovenia,12,3,0,0,Local transmission,0
+03-08-2020,Croatia,11,0,0,0,Local transmission,1
+03-08-2020,Estonia,10,0,0,0,Imported cases only,1
+03-08-2020,Azerbaijan,9,0,0,0,Imported cases only,1
+03-08-2020,Hungary,7,3,0,0,Local transmission,0
+03-08-2020,Russian Federation,7,0,0,0,Imported cases only,1
+03-08-2020,Belarus,6,0,0,0,Local transmission,3
+03-08-2020,Poland,6,1,0,0,Imported cases only,0
+03-08-2020,Malta,3,3,0,0,Imported cases only,0
+03-08-2020,North Macedonia,3,0,0,0,Imported cases only,1
+03-08-2020,Slovakia,3,2,0,0,Local transmission,0
+03-08-2020,Bosnia and Herzegovina,2,0,0,0,Local transmission,3
+03-08-2020,Bulgaria,2,2,0,0,Local transmission,0
+03-08-2020,Luxembourg,2,0,0,0,Imported cases only,1
+03-08-2020,Andorra,1,0,0,0,Imported cases only,5
+03-08-2020,Armenia,1,0,0,0,Imported cases only,6
+03-08-2020,Holy See,1,0,0,0,Under investigation,2
+03-08-2020,Latvia,1,0,0,0,Imported cases only,5
+03-08-2020,Liechtenstein,1,0,0,0,Imported cases only,2
+03-08-2020,Lithuania,1,0,0,0,Imported cases only,9
+03-08-2020,Monaco,1,0,0,0,Under investigation,7
+03-08-2020,Republic of Moldova,1,1,0,0,Imported cases only,0
+03-08-2020,Serbia,1,0,0,0,Under investigation,2
+03-08-2020,Ukraine,1,0,0,0,Imported cases only,4
+03-08-2020,Faroe Islands,1,0,0,0,Imported cases only,2
+03-08-2020,Gibraltar,1,0,0,0,Under investigation,4
+03-08-2020,Thailand,50,2,1,0,Local transmission,0
+03-08-2020,India,34,3,0,0,Local transmission,0
+03-08-2020,Indonesia,4,0,0,0,Local transmission,1
+03-08-2020,Maldives,2,2,0,0,Local transmission,0
+03-08-2020,Bhutan,1,0,0,0,Imported cases only,2
+03-08-2020,Nepal,1,0,0,0,Imported cases only,44
+03-08-2020,Sri Lanka,1,0,0,0,Imported cases only,41
+03-08-2020,Iran (Islamic Republic of),5823,1076,145,21,Local transmission,0
+03-08-2020,Kuwait,62,4,0,0,Imported cases only,0
+03-08-2020,Bahrain,56,7,0,0,Imported cases only,0
+03-08-2020,Iraq,54,10,4,0,Imported cases only,0
+03-08-2020,Egypt,48,45,0,0,Local transmission,0
+03-08-2020,United Arab Emirates,45,0,0,0,Local transmission,1
+03-08-2020,Lebanon,28,6,0,0,Local transmission,0
+03-08-2020,Oman,16,0,0,0,Imported cases only,2
+03-08-2020,Qatar,12,1,0,0,Imported cases only,0
+03-08-2020,Saudi Arabia,7,2,0,0,Imported cases only,0
+03-08-2020,Pakistan,5,0,0,0,Imported cases only,5
+03-08-2020,Afghanistan,4,3,0,0,Imported cases only,0
+03-08-2020,Morocco,2,0,0,0,Imported cases only,3
+03-08-2020,Jordan,1,0,0,0,Imported cases only,5
+03-08-2020,Tunisia,1,0,0,0,Imported cases only,5
+03-08-2020,Occupied Palestinian Territory,16,0,0,0,Local transmission,1
+03-08-2020,United States of America,213,0,11,0,Local transmission,1
+03-08-2020,Canada,57,6,0,0,Local transmission,0
+03-08-2020,Brazil,19,6,0,0,Local transmission,0
+03-08-2020,Ecuador,14,0,0,0,Local transmission,1
+03-08-2020,Argentina,9,7,1,1,Imported cases only,0
+03-08-2020,Mexico,7,2,0,0,Imported cases only,0
+03-08-2020,Peru,6,0,0,0,Local transmission,1
+03-08-2020,Chile,5,0,0,0,Imported cases only,1
+03-08-2020,Costa Rica,5,5,0,0,Imported cases only,0
+03-08-2020,Colombia,1,0,0,0,Imported cases only,1
+03-08-2020,Dominican Republic,1,0,0,0,Imported cases only,6
+03-08-2020,French Guiana,5,5,0,0,Imported cases only,0
+03-08-2020,Martinique,2,2,0,0,Imported cases only,0
+03-08-2020,Saint Martin,2,0,0,0,Under investigation,5
+03-08-2020,Saint Barthlemy,1,0,0,0,Under investigation,5
+03-08-2020,Algeria,17,0,0,0,Local transmission,1
+03-08-2020,Senegal,4,0,0,0,Imported cases only,3
+03-08-2020,Cameroon,2,0,0,0,Local transmission,1
+03-08-2020,South Africa,2,1,0,0,Imported cases only,0
+03-08-2020,Nigeria,1,0,0,0,Imported cases only,9
+03-08-2020,Togo,1,0,0,0,Imported cases only,1
+03-08-2020,International conveyance (Diamond Princess),696,0,7,1,Local transmission,0
